@@ -1,6 +1,6 @@
 # yuxin_helpers
 
-A helper package with utilities for color conversion.
+Yuxin's helper package with utilities for diverse tasks.
 
 ## Installation
 
