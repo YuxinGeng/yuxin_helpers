@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='yuxin_helpers',
-    version='0.1.0',
+    version='0.1.5',
     packages=find_packages(),
     author='Yuxin Geng',
     author_email='yuxin.evol@gmail.com',
