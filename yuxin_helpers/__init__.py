@@ -1,6 +1,6 @@
 # yuxin_helpers/__init__.py
-from .color_utils import rgb_to_hex, hex_to_rgb, truncate_colormap
+"""
+yuxin_helpers: Yuxin's helper package with utilities for diverse tasks.
+"""
 
-__version__ = "0.1.5"
-
-__all__ = ['rgb_to_hex', 'hex_to_rgb', 'truncate_colormap', '__version__']
+__version__ = "0.1.6"

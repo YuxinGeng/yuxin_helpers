@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='yuxin_helpers',
-    version='0.1.5',
+    version='0.1.6',
     packages=find_packages(),
     author='Yuxin Geng',
     author_email='yuxin.evol@gmail.com',
@@ -17,4 +17,8 @@ setup(
         'Operating System :: OS Independent',
     ],
     python_requires='>=3.6',
+    install_requires=[
+        'matplotlib',
+        'numpy',
+    ],
 )
